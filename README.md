@@ -6,8 +6,7 @@
 
 
 
-![Alt text](./controllers_brief.svg)
-<img src="https://simpleicons.org/icons/react.svg">
+![Alt text]<img src="https://simpleicons.org/icons/react.svg" width="50" height="50"/>
 
 - 🔥  **React**
 - ❤  **NodeJS**
