@@ -6,7 +6,7 @@
 
 
 
-![Alt text]<img src="https://simpleicons.org/icons/react.svg" width="50" height="50"/>
+![Alt text]<img src="https://simpleicons.org/icons/react.svg" width="50" height="50" style="background:'blue'"/>
 
 - 🔥  **React**
 - ❤  **NodeJS**
