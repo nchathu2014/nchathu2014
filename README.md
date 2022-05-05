@@ -1,5 +1,12 @@
 # Hi there! 👋 ![GitHub followers](https://img.shields.io/github/followers/nchathu2014?style=plastic) ![GitHub Org's stars](https://img.shields.io/github/stars/nchathu2014?style=plastic)
 
+- 🔥  **React**
+- ❤  **NodeJS**
+- ✨ **Angular**
+- 👑 **JavaScript**
+- 🥈 **HTML**
+- 💖**CSS** 
+
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -16,11 +23,4 @@
 ✨Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
 
 
-
-- 🔥  **React**
-- ❤  **NodeJS**
-- ✨ **Angular**
-- 👑 **JavaScript**
-- 🥈 **HTML**
-- 💖**CSS** 
 
