@@ -36,10 +36,15 @@
 
 ## 🏅 Achievements
 
--   🥇 **Todo**
--   🥈 **Todo**
--   🥉 **Todo**
+-   🥉 **Engineering Research Unit (ERU) Gold Medal**: Awarded the Engineering Research Unit (ERU) Gold medal for the best publication in Open University of Sri Lanka Review Engineering Technology (Disease diagnosis of Rice plants, hybrid Artificial Intelligence (AI) web application)
+-   🥈 **General Intelligence Quotient Certificate**: IQA Certified - IQ Test Academy Certificate for General Intelligence Quotient (Score: 133)
+<!---   🥉 **Todo** -->
+
+## 📝 Research and Contributions
+
+-   🥇 **Role of Artificial Intelligence in Covid-19 Eradication Process:** Comprehensive Review Followed by Further Innovative Contributions (SAIR: South Asia Conference on Interdisciplinary Research)
 -   
+
 <!--
 -   📝 **5+ Times Global #1 Weekly Blog Writer** at _Dev_ (January 2022)
 -   🏆 **Top Rated** at _Upwork_ (September 2021)
