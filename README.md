@@ -67,6 +67,7 @@
 
 ### Front-End Development
 
+![vuejs](https://img.shields.io/badge/Vuejs-000000?style=for-the-badge&logo=vuejs&logoColor=FFFFFF)
 ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
