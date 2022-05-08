@@ -43,7 +43,7 @@
 ## 📝 Research and Contributions
 
 -   🥇 **Role of Artificial Intelligence in Covid-19 Eradication Process:** Comprehensive Review Followed by Further Innovative Contributions (SAIR: South Asia Conference on Interdisciplinary Research)
--   
+-   🥇 **A Novel Deep Learning-Based Ensemble Model for Predicting the Birth Option Type.**(SAIR: South Asia Conference on Interdisciplinary Research)
 
 <!--
 -   📝 **5+ Times Global #1 Weekly Blog Writer** at _Dev_ (January 2022)
