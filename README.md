@@ -5,7 +5,6 @@
 🎓 I am Nuwan Chathuranga, a **Software Engineer** (specializing in **Full Stack Web Application Development**). I am also Pursuing my Masters in **Master of Science in Information Technology** and graduated in mid-2020.
 
 👨‍💻 I am really enthusiastic about learning new technologies. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture**. 
-
 <!-- I am a comment 
  I got started with [**Freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**Blogging**](https://dev.to/nchathu2014) quite recently and made a name for myself.-->
 
@@ -27,9 +26,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=nchathu2014&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
     <img src="https://github-readme-stats.vercel.app/api/?username=nchathu2014&show_icons=true&title_color=00A885&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Nuwan's GitHub Stats">
-   
-
-    
+  
 </div>
 
 
