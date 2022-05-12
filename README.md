@@ -35,7 +35,7 @@
 
 -   🥉 **Engineering Research Unit (ERU) Gold Medal**: Awarded the Engineering Research Unit (ERU) Gold medal for the best publication in Open University of Sri Lanka Review Engineering Technology (Disease diagnosis of Rice plants, hybrid Artificial Intelligence (AI) web application)
 -   🥈 **General Intelligence Quotient Certificate**: IQA Certified - IQ Test Academy Certificate for General Intelligence Quotient (Score: 133)
-<!---   🥉 **Todo** -->
+<!---   🥉 **Todo** --->
 
 ## 📝 Research and Contributions
 
